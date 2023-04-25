@@ -1,0 +1,155 @@
+.container-frame15{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+}
+.comments1{
+    margin-top: -200px;
+    margin-left: -90px;
+}
+.container1-frame1-5
+{
+    display: grid;
+    padding: 17% 15% ;
+    font-family: "Montserrat", sans-serif;
+    background-color: #8983F1;
+    margin-left: 7%;
+    margin-right: 0%;
+    margin-top: -28%;
+    border-radius: 30px;
+}
+.Detail-frame1-5{
+    margin-top: -200px;
+    margin-left: -30px;
+}
+
+
+.container1-frame15{
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 1rem
+}
+.container1-2{
+    display: grid;
+    padding: 14% 5% ;
+    font-family: "Montserrat", sans-serif;
+    background-color:  #96E6FF; 
+    margin-left: 4%;
+    margin-right: 0%;
+    margin-top: 1%;
+    border-radius: 25px;
+    max-height: 5%;
+}
+.details{
+    margin-top: -120px;
+}
+
+
+.expert-column-name1-00 {
+    display: flex;
+     flex-direction: column;
+    text-align: left;
+    padding: 5% 10%;
+    margin-left: -150px;
+    margin-right: -170px;
+    
+}
+.conatiner1-3{
+    margin-left: -100%;
+}
+.container1-frame13
+{
+    display: grid;
+    padding: 24% 15% ;
+    font-family: "Montserrat", sans-serif;
+    background-color: #8983F1;
+    margin-left: 23%;
+    margin-right: -13%;
+    margin-bottom: 5%;
+    margin-top: 8%;
+    border-radius: 30px;
+    max-height: 180px;
+}
+.recommended{
+    display: grid;
+    padding: 90% 29% ;
+    font-family: "Montserrat", sans-serif;
+    background-color: #8983F1;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    border-radius: 35px;
+    max-height: 200px;
+}
+
+.expert-video-recommended{
+    
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 1rem;
+        padding: 0.5% 7%;
+        font-family: "Montserrat", sans-serif;
+        /* margin-left: -42%; */
+        margin-right: 5%;
+        margin-bottom: 5%;
+        border-style: inherit;
+        border-radius: 20px;
+        margin-top: -250px;
+      }
+
+      .expert-video-recommended-column1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 5% 5%;
+        margin-right: 95px; 
+        /* margin-left: -20%;    */
+      }
+      .expert-column-recommended-name1-0 {
+        display: flex;
+         flex-direction: column;
+        text-align: left;
+        padding: 5% 10%;
+        margin-left: -130px;
+        margin-right: -170px;
+        margin-top: 18%;
+        
+    }
+    .heading-Rbar{
+        margin-top: -310%;
+    }
+
+    .heading-Rbar1{
+        margin-top: -260%;
+        margin-left: 15%;
+    }
+    .recommended-videos{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .recommended-video-column1{
+        margin-top: -325%;
+        margin-left: 15%;
+    }
+    .recommended-heading{
+        margin-top: -100%;
+    }
+    .recommended-video-column2{
+        margin-top: -325%;
+    }
+    .container2-2-frame15{
+    display: grid;
+    padding: 44% 35% ;
+    font-family: "Montserrat", sans-serif;
+    background-color: #3485F0;
+    ;
+    margin-left: 7%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 8%;
+    border-radius: 30px;
+    max-height: 180px;
+}
+

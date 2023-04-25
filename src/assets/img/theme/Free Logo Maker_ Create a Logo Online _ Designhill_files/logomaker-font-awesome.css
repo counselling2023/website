@@ -1,0 +1,30 @@
+@font-face{font-family:FontAwesome;font-display:swap;font-weight:400;font-style:normal;src:url(//cdn1.designhill.com/assets/dh/fonts/fontawesome-webfont.eot?v=5.2.2);src:url(//cdn1.designhill.com/assets/dh/fonts/fontawesome-webfont.eot?#iefix&v=5.2.2) format('embedded-opentype'),url(//cdn1.designhill.com/assets/dh/fonts/fontawesome-webfont.woff?v=5.2.2) format('woff'),url(//cdn1.designhill.com/assets/dh/fonts/fontawesome-webfont.ttf?v=5.2.2) format('truetype'),url(//cdn1.designhill.com/assets/dh/fonts/fontawesome-webfont.svg#fontawesomeregular?v=5.2.2) format('svg')}[class*=" icon-"],[class^=icon-]{font-size:14px;font-family:FontAwesome;font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased}[class*=" icon-"]:before,[class^=icon-]:before{text-decoration:inherit;display:inline-block;speak:none}
+.icon-envelope:before{content:"\f0e0"}
+.icon-bell:before{content:"\f0a2"}
+.icon-ok-sign:before{content:"\f058"}
+.icon-play-circle:before{content:"\f01d"}
+.icon-star-empty:before{content:"\f006"}
+.icon-star-half-empty:before,.icon-star-half-full:before{content:"\f123"}
+.icon-star:before{content:"\f005"}
+.icon-angle-double-left:before{content:"\f100"}
+.icon-angle-double-right:before{content:"\f101"}
+.icon-chevron-left:before{content:"\f053"}.icon-chevron-right:before{content:"\f054"}
+.icon-warning-sign2:before{content:"\f071"}
+.icon-facebook:before{content:"\f09a"}
+.icon-twitter:before{content:"\f099"}
+.icon-google-sign:before{content: "\f1a0"}
+.icon-pinterest-p:before{content:"\f231"}
+.icon-linkedin:before{content:"\f0e1"}
+.icon-instagram:before{content:"\f16d"}
+.icon-heart:before{content:"\f004"}
+.icon-reorder:before{content:"\f0c9"}
+.icon-remove:before{content:"\f00d"}
+.icon-close:before{padding:5px 4px 5px 7px;content:"\f00d"}
+.icon-trash:before{content:"\f014"}
+.icon-info:before{content:"\f129"}
+.icon-question:before{content:"\f128"}
+.icon-angle-down:before{content:"\f107"}
+.icon-angle-up:before{content:"\f106"}
+.icon-closebtn:before{content:"\f00d"}
+.icon-users:before{content:"\f0c0"}
+.icon-long-arrow:before{content:"\f178";}

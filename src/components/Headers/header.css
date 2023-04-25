@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    padding: 10px;
+  }
+  
+  
+  p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #0e0e0e;
+    margin-top: 10px;
+    
+  }
+
+  .home-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    padding: 0.5% 5%;
+    font-family: "Montserrat", sans-serif;
+  }
+  .home-container-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 5% 5%;
+    /* background-color: #5c47cc; */
+  }
+  

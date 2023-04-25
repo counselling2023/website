@@ -1,0 +1,89 @@
+.table1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem
+  }
+
+  .table-column1 {
+    display: grid;
+    padding: 30% 17% ;
+    font-family: "Montserrat", sans-serif;
+    background-color: #8983F1;
+    margin-left: 6%;
+    margin-right: 49%;
+    margin-bottom: 5%;
+    margin-top: 13%;
+    border-radius: 30px;
+    max-height: 200px;
+  }
+  
+
+  
+  .expert-video11 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    padding: 0.5% 7%;
+    font-family: "Montserrat", sans-serif;
+    background-color:  #C2EBF8;
+    ;
+    margin-left: -42%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-style: inherit;
+    border-radius: 20px;
+  }
+  .expert-video-column1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 5% 5%;
+    margin-right: 95px; 
+    margin-left: -20%;   
+  }
+  .expert-column-name1-0 {
+    display: flex;
+     flex-direction: column;
+    text-align: left;
+    padding: 5% 10%;
+    margin-left: -150px;
+    margin-right: -170px;
+    
+}
+.expert-column-button1-0 {
+    display: flex;
+    
+    background-color: #3485F0;
+    border-radius: 30px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-top: 15px;
+    margin-top: 130px;
+
+    margin-left: 150px;
+    
+}
+.expert-column-button2-0 {
+    display: flex;
+    background-color: white;
+    border-radius: 30px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    margin-top: 10px;
+
+    
+    margin-left: 150px;
+
+}
+.Heading1{
+    margin-top: -260%;
+    
+}
